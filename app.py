@@ -5,7 +5,6 @@ app = Flask(__name__)
 
 # GitHub API Credentials (Replace with your own)
 GITHUB_USERNAME = "ultralegend14"
-GITHUB_PAT = "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"  # ⚠️ SECURITY RISK: Use Railway ENV variables instead!
 CODESPACE_NAME = "refactored-meme-5g4wr7p95jr6cv5r4"
 
 HEADERS = {
